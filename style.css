@@ -22,6 +22,7 @@
     --border-radius-md: 12px;
 }
 
+
 /* Light Mode */
 [data-theme="light"] {
     --primary: #007bff;
